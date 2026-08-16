@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Archived upstream fork/reference.** This repository is archived and retained only as an upstream reference; do not use it for new work.
+>
+> **Upstream:** [vercel-labs/eve-chat-template](https://github.com/vercel-labs/eve-chat-template)  
+> **Maintained pc-style delta:** **none** (the only pc-style commit is this archive notice).  
+> The upstream history and any license/provenance notices are preserved. Use the upstream repository for current code, releases, issues, and security updates.
+
+---
+
 # eve Chat Template
 
 A persisted Next.js chat template for [eve](https://beta.eve.dev), built with shadcn/ui, Tailwind CSS, Streamdown, Better Auth, Drizzle, Neon, and Upstash Redis.
